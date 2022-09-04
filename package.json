@@ -1,5 +1,5 @@
 {
-  "homepage": "http://armod.github.io/react-our-review-setup",
+  "homepage": "https://armod.github.io/react-our-review-setup",
   "name": "review-project-setup",
   "version": "0.1.0",
   "private": true,
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
